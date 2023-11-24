@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T23:11:43.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tQ0nwnKOT8E6MQY_bygT" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-24T23:22:30.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iS-4mtM6AJHn8rzUdxse" version="22.1.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1450" dy="930" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,18 @@
         </mxCell>
         <mxCell id="OKHQNxX-MG5r08CunaJo-61" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="OKHQNxX-MG5r08CunaJo-60" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_iNokzk6_WhhG940XZF--8" value="Apartment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="179" y="-202" width="140" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="_iNokzk6_WhhG940XZF--10" value="+ ID: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_iNokzk6_WhhG940XZF--8">
+          <mxGeometry y="26" width="140" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="_iNokzk6_WhhG940XZF--9" value="+ Address: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_iNokzk6_WhhG940XZF--8">
+          <mxGeometry y="50" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_iNokzk6_WhhG940XZF--11" value="+ Rooms: list&amp;lt;room&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_iNokzk6_WhhG940XZF--8">
+          <mxGeometry y="76" width="140" height="116" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
