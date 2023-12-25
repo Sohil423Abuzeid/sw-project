@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T23:11:24.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="z7Ni6sfvPKy9yx_8P4mZ" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T23:18:34.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YCoDd-Ulf3Zkqgf2cN0W" version="22.1.11" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="4160" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4671" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,6 +153,12 @@
         </mxCell>
         <mxCell id="oWkPg1YfFOm1YqjvmFbe-738" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;6.&lt;/font&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt; *Parents and Relatives of Students:*&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7EA6E0;align=left;" parent="1" vertex="1">
           <mxGeometry x="-516" y="982" width="454.5" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="eNKhDuSIo71i5Atd7D2e-722" value="احمد ناصر" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;spacingTop=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="1160" width="110" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="eNKhDuSIo71i5Atd7D2e-724" value="احمد ناصر" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;spacingTop=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="-584" y="1361.5" width="110" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
