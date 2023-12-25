@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T23:21:42.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="AslEIULZz2Jr03GMUeU8" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T23:22:34.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="2mnrgmlTyjSqqzqve0zL" version="22.1.11" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="4160" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -131,10 +131,10 @@
           <mxGeometry x="-1785" y="1030" width="410" height="61" as="geometry" />
         </mxCell>
         <mxCell id="oWkPg1YfFOm1YqjvmFbe-722" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; border-color: var(--border-color); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 30px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 30px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;&quot;&gt;&quot;Effortless and reliable performance Temporary Housing Solutions for Students:&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#DAE8FC;strokeColor=#6c8ebf;align=left;gradientColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="-1350" y="400" width="370" height="200" as="geometry" />
+          <mxGeometry x="-1350" y="456" width="370" height="200" as="geometry" />
         </mxCell>
         <mxCell id="oWkPg1YfFOm1YqjvmFbe-729" value="&lt;br&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Our application provides a community or seamless platform connecting students with short-term housing options, offering convenience, affordability, and a variety of choices to meet the unique needs of academic journeys, whether it&#39;s a brief stay for a workshop, exchange program, or internship.&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="-1340" y="620" width="360" height="360" as="geometry" />
+          <mxGeometry x="-1340" y="700" width="360" height="360" as="geometry" />
         </mxCell>
         <mxCell id="oWkPg1YfFOm1YqjvmFbe-732" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 21px;&quot;&gt;1&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 21px;&quot;&gt;. *Students Seeking Short-Term Housing:*&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 21px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7EA6E0;align=center;" parent="1" vertex="1">
           <mxGeometry x="-514.5" y="432" width="454.5" height="120" as="geometry" />
@@ -162,6 +162,12 @@
         </mxCell>
         <mxCell id="FW_8AljW0FtusKzrigMs-722" value="&lt;font color=&quot;#ff3bb0&quot;&gt;Made By:احمد ناصر&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;spacingTop=0;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="-854" y="1143" width="300" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FW_8AljW0FtusKzrigMs-723" value="&lt;font color=&quot;#ff3bb0&quot;&gt;Made By: اسراء جمال&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;spacingTop=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="-1350" y="385" width="300" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FW_8AljW0FtusKzrigMs-724" value="&lt;font color=&quot;#ff3bb0&quot;&gt;Made By: اسراء جمال&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;spacingTop=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="-516" y="379" width="300" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
